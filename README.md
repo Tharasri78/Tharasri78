@@ -1,22 +1,23 @@
-# Hi, I'm Tharasri👋
+# Hi, I'm Thara Sri 👋
 
 **Full-Stack Developer (MERN) • RESTful APIs • GenAI (RAG, LLMs)**
 
 - Build scalable web applications  
-- Develop RESTful APIs and backend systems  
+- Develop backend systems and REST APIs  
 - Build GenAI pipelines using FastAPI and LangChain  
 
 ---
 
 ## About Me
 
-▸🧩 Full-stack development using MERN (MongoDB, Express, React, Node.js)  
-▸⚙️Backend systems and REST API design  
-▸🤖 GenAI development (RAG pipelines, LLM integration)  
-▸🔗 End-to-end system building (frontend + backend + AI)  
-▸📈 Focus on clean architecture, performance, and scalability  
+▸ 🧩 Full-stack development using MERN (MongoDB, Express, React, Node.js)  
+▸ ⚙️ Backend systems and REST API design  
+▸ 🤖 GenAI development (RAG pipelines, LLM integration)  
+▸ 🔗 End-to-end system building (frontend + backend + AI)  
+▸ 📈 Focus on clean architecture, performance, and scalability  
 
 ---
+
 ## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
@@ -31,14 +32,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge)
 
 ---
-
-### GenAI
-
-**RAG • LLMs**
-
-![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge)
 
 ## Tools
 
@@ -48,6 +44,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-111?style=for-the-badge&logo=visualstudiocode)
 
 ---
+
 ## GitHub Stats
 
 <p align="center">
@@ -57,13 +54,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tharasri78&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tharasri78&theme=tokyonight" />
-</p>
-
----
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tharasri78&theme=tokyonight" />
 </p>
 
 ---
