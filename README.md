@@ -16,7 +16,10 @@
 ▸ 🔗 End-to-end system building (frontend + backend + AI)  
 ▸ 📈 Focus on clean architecture, performance, and scalability  
 
---- ## Tech Stack 
+---
+
+## Tech Stack 
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript) ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python) 
 ![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk) 
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5) 
@@ -27,7 +30,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi) 
 
---- ### GenAI **RAG • LLMs** 
+ ### GenAI **RAG • LLMs** 
 
 ![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge)
 
