@@ -40,9 +40,15 @@
 
 ![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge)
 
+## Tools
+
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-111?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VS%20Code-111?style=for-the-badge&logo=visualstudiocode)
 
 ---
-## GitHub Overview
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tharasri78&theme=tokyonight" />
@@ -64,4 +70,5 @@
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin)](YOUR_LINK)
+[![Email](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
