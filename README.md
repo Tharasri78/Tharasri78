@@ -68,7 +68,14 @@
 
 ---
 
-## Connect
+## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin)](YOUR_LINK)
-[![Email](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+<p>
+  <a href="https://www.linkedin.com/in/tharasri" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tharusree7@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/>
+  </a>
+</p>
