@@ -15,7 +15,6 @@ Also focused on Generative AI systems, working with RAG pipelines, LLMs, FastAPI
 - Focus on clean architecture, performance, and real-world problem solving  
 
 ---
-
 ## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
@@ -31,9 +30,10 @@ Also focused on Generative AI systems, working with RAG pipelines, LLMs, FastAPI
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi)
 
+**GenAI:** RAG, LLMs
+
 ![LangChain](https://img.shields.io/badge/LangChain-111?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-111?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-111?style=for-the-badge)
+
 
 ---
 
