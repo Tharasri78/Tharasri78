@@ -70,14 +70,12 @@
 
 ## Contact
 
-<p>
-  <a href="https://www.linkedin.com/in/tharasri" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="24" />
-    &nbsp;LinkedIn
+<p align="center">
+  <a href="https://www.linkedin.com/in/tharasri">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="28"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:tharusree7@gmail.com" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=gmail" height="24" />
-    &nbsp;Email
+  &nbsp;&nbsp;
+  <a href="mailto:tharusree7@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="28"/>
   </a>
 </p>
