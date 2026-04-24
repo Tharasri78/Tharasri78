@@ -41,11 +41,9 @@
 
 ## Tools
 
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-111?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VS%20Code-111?style=for-the-badge&logo=visualstudiocode)
-
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" height="30"/>
+</p>
 ---
 
 ## GitHub Stats
