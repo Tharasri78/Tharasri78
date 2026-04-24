@@ -1,18 +1,20 @@
 # Hi, I'm Thara Sri
 
-Full-stack developer specializing in the MERN stack (MongoDB, Express, React, Node.js) with experience building RESTful APIs and scalable web applications.
+**Full-Stack Developer (MERN) • RESTful APIs • GenAI (RAG, LLMs)**
 
-Also focused on Generative AI systems, working with RAG pipelines, LLMs, FastAPI, and vector databases.
+- Build scalable web applications  
+- Develop RESTful APIs and backend systems  
+- Build GenAI pipelines using FastAPI and LangChain  
 
 ---
 
 ## About Me
 
-- Build full-stack applications using the MERN stack (MongoDB, Express, React, Node.js)  
-- Develop and integrate RESTful APIs for scalable backend systems  
-- Design GenAI solutions using RAG, LLMs, FastAPI, and vector databases  
-- Work across both frontend and backend, handling end-to-end system development  
-- Focus on clean architecture, performance, and real-world problem solving  
+▸🧩 Full-stack development using MERN (MongoDB, Express, React, Node.js)  
+▸⚙️Backend systems and REST API design  
+▸🤖 GenAI development (RAG pipelines, LLM integration)  
+▸🔗 End-to-end system building (frontend + backend + AI)  
+▸📈 Focus on clean architecture, performance, and scalability  
 
 ---
 ## Tech Stack
