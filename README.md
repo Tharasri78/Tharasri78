@@ -71,11 +71,13 @@
 ## Contact
 
 <p>
-  <a href="https://www.linkedin.com/in/tharasri" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+  <a href="https://www.linkedin.com/in/tharasri" target="_blank" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="24" />
+    &nbsp;LinkedIn
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:tharusree7@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:tharusree7@gmail.com" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=gmail" height="24" />
+    &nbsp;Email
   </a>
 </p>
