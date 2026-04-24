@@ -17,34 +17,50 @@
 ▸ 📈 Focus on clean architecture, performance, and scalability  
 
 ---
-
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,html,css" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=js" height="40"/> JavaScript &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" height="40"/> Python &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" height="40"/> Java &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" height="40"/> HTML &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="40"/> CSS  
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react" height="40"/> React &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" height="40"/> Node.js &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express" height="40"/> Express &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" height="40"/> MongoDB  
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=fastapi" height="40"/> FastAPI  
+
+</p>
+
+## GenAI
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="35"/>  
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" height="50"/>
+  RAG • LLMs • LangChain
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
-</p>
-
-
- ### GenAI 
- 
- **RAG • LLMs** 
-
-![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge)
 
 ## Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" height="55"/>
-</p>
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=git" height="35"/> Git &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="35"/> GitHub &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" height="35"/> Postman &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" height="35"/> VS Code  
+
+</p>
 
 ## GitHub Stats
 
