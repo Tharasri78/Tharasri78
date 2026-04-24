@@ -1,4 +1,4 @@
-# Hi, I'm Thara Sri
+# Hi, I'm Tharasri👋
 
 **Full-Stack Developer (MERN) • RESTful APIs • GenAI (RAG, LLMs)**
 
@@ -45,15 +45,14 @@
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Tharasri78&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tharasri78&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharasri78&theme=tokyonight" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharasri78&layout=compact&theme=tokyonight)
-
----
-
-## Contribution Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Tharasri78&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharasri78&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
