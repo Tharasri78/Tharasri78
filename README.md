@@ -18,25 +18,8 @@
 
 ---
 ## Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,java,html,css" height="45"/>
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" height="45"/>
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
-</p>
-
-### GenAI
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="45"/> 
-  &nbsp; RAG • LLMs • LangChain
-</p>
-
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript) ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk) ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3) ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js) ![Express](https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb) ![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi) --- ### GenAI **RAG • LLMs** ![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge)
 ---
 
 ## Tools
