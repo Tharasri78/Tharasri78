@@ -19,24 +19,21 @@
 ---
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,java,html,css" height="55"/>
-</p>
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" height="55"/>
-</p>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi" height="55"/>
-</p>
-
-### GenAI
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="55"/> 
-  &nbsp; RAG • LLMs • LangChain
-</p>
----
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
+![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi)
 
 ## Tools
 
