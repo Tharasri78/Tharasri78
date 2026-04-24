@@ -30,7 +30,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi) 
 
- ### GenAI **RAG • LLMs** 
+ ### GenAI 
+ 
+ **RAG • LLMs** 
 
 ![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge)
 
@@ -39,7 +41,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" height="55"/>
 </p>
----
+
 
 ## GitHub Stats
 
