@@ -1,33 +1,34 @@
 # Hi, I'm Thara Sri
 
-Full-stack developer building GenAI applications (RAG, LLMs)  
-Focused on scalable systems using React and FastAPI
+Full-stack developer specializing in the MERN stack (MongoDB, Express, React, Node.js) with experience building RESTful APIs and scalable web applications.
+
+Also focused on Generative AI systems, working with RAG pipelines, LLMs, FastAPI, and vector databases.
 
 ---
 
 ## About Me
 
-- Building AI-powered systems using LLMs and RAG  
-- Strong in backend logic and system design  
-- Interested in real-world problem solving  
-- Focused on clean architecture and performance  
+- Build full-stack applications using the MERN stack (MongoDB, Express, React, Node.js)  
+- Develop and integrate RESTful APIs for scalable backend systems  
+- Design GenAI solutions using RAG, LLMs, FastAPI, and vector databases  
+- Work across both frontend and backend, handling end-to-end system development  
+- Focus on clean architecture, performance, and real-world problem solving  
 
 ---
 
 ## Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)
 
-### Frontend
 ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
-![Vite](https://img.shields.io/badge/Vite-111?style=for-the-badge&logo=vite)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
 
-### Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi)
 
-### AI / GenAI
 ![LangChain](https://img.shields.io/badge/LangChain-111?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-111?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-111?style=for-the-badge)
