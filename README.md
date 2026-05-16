@@ -1,29 +1,28 @@
 # Hi, I'm Thara Sri 👋
 
-**Full-Stack Developer (MERN) • RESTful APIs • GenAI (RAG, LLMs)**
+**AI Engineer | Generative AI & LLMs | Python, LangChain & RAG | Full-Stack Developer**
 
-- Build scalable web applications  
-- Develop backend systems and REST APIs  
-- Build GenAI pipelines using FastAPI and LangChain  
+- Build AI-powered applications and GenAI pipelines
+- Develop scalable backend systems and REST APIs
+- Build end-to-end intelligent web applications
 
 ---
 
 ## About Me
 
-▸ 🧩 Full-stack development using MERN (MongoDB, Express, React, Node.js)  
-▸ ⚙️ Backend systems and REST API design  
-▸ 🤖 GenAI development (RAG pipelines, LLM integration)  
-▸ 🔗 End-to-end system building (frontend + backend + AI)  
-▸ 📈 Focus on clean architecture, performance, and scalability  
+▸ 🤖 Building AI-powered applications using Generative AI, RAG, and LLMs
+▸ 🧠 Working with LangChain, FastAPI, and modern AI workflows
+▸ ⚙️ Backend systems and REST API development
+▸ 🌐 Full-stack development using React, Node.js, and MongoDB
+▸ 🔗 Building end-to-end systems combining AI + backend + frontend
 
 ---
 ## Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js" height="40"/> JavaScript &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=python" height="40"/> Python &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java" height="40"/> Java &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" height="40"/> JavaScript &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=html" height="40"/> HTML &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=css" height="40"/> CSS  
 
