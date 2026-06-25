@@ -10,11 +10,11 @@
 
 ## About Me
 
--🚀 Building AI-powered applications using Generative AI, LLMs, and RAG
--🧠 Developing AI workflows with Python, LangChain, FastAPI, and vector databases
--⚙️ Designing scalable backend systems and RESTful APIs
--💻 Building full-stack web applications with React, Node.js, Express.js, and MongoDB
--🔗 Integrating AI, backend, and frontend into complete, production-ready solutions
+- 🚀 Building AI-powered applications with **Generative AI, LLMs, and RAG**
+- 🧠 Developing AI workflows using **Python, LangChain, and FastAPI**
+- ⚙️ Designing scalable **backend systems and RESTful APIs**
+- 💻 Building full-stack applications with **React, Node.js, Express.js, and MongoDB**
+- 🔗 Integrating AI, backend, and frontend into production-ready solutions
 
 ---
 ## Tech Stack
