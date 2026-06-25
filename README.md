@@ -1,6 +1,6 @@
 # Hi, I'm Thara Sri 👋
 
-**AI Engineer | Generative AI & LLMs | Python, LangChain & RAG | Full-Stack Developer**
+**Generative AI Engineer | LLMs | Python | LangChain | RAG | Full-Stack Developer**
 
 - Build AI-powered applications and GenAI pipelines
 - Develop scalable backend systems and REST APIs
@@ -10,11 +10,11 @@
 
 ## About Me
 
-- 🤖 Building AI-powered applications using Generative AI, RAG, and LLMs  
-- 🧠 Working with LangChain, FastAPI, and modern AI workflows  
-- ⚙️ Backend systems and REST API development  
-- 🌐 Full-stack development using React, Node.js, and MongoDB  
-- 🔗 Building end-to-end systems combining AI, backend, and frontend  
+-  Building AI-powered applications using Generative AI, RAG, and LLMs  
+-  Working with LangChain, FastAPI, and modern AI workflows  
+-  Backend systems and REST API development  
+-  Full-stack development using React, Node.js, and MongoDB  
+-  Building end-to-end systems combining AI, backend, and frontend  
 
 ---
 ## Tech Stack
